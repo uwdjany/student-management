@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+       
+}
+
+
+nav
+{
+     position: fixed;
+     background-color: skyblue;
+     height: 70px;
+     width: 100%;
+     z-index: 1;
+}
+.logo{
+    font-size: 25px;
+    position: relative;
+    color: aliceblue;
+    left: 5%;
+    line-height: 70px;
+    font-weight: bold;
+     
+}
+ul{
+    float: right;
+    position: relative;
+    margin-right: 20px;
+}
