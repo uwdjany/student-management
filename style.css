@@ -7,7 +7,7 @@
 
 nav
 {
-     position: fixed;
+     position: absolute;
      background-color: skyblue;
      height: 70px;
      width: 100%;
